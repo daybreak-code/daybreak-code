@@ -1,5 +1,7 @@
 ### Welcome! 👋
 
-- 🌱 I’m currently learning: React/Node.js/TypeScript
-- 💬 Ask me: Java, JS, C/C++
-- 📫 How to reach me: 15222406560@163.com
+[Fatalism: ](https://github.com/daybreak-code/react-study)
+
+A financial platform for the Internet public to provide financial services and personal consumer credit services. 
+
+
