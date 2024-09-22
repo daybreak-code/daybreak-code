@@ -1,9 +1,3 @@
 ### Welcome! 👋
 
-[Fatalism: ](https://github.com/daybreak-code/react-study)
-
-A financial platform for the Internet public to provide financial services and personal consumer credit services. 
-
-[react-study: ](https://github.com/daybreak-code/react-study)
-
-0 - 1 study for React.js
+I'm Dawn Li, a fullstack engineer(Java+React). Love coding. Could sent email to 15222406560@163.com and connect me.
