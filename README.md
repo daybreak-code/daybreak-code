@@ -1,5 +1,5 @@
 ### Welcome! 👋
 
-I'm Dawn, nice to see you.
+I'm Dawn, Nice to See You.
 
-"bio": "Fullstack Engineer specializing in Java & React | Building scalable web applications | Reach me at 13438446285@163.com"
+Fullstack Engineer specializing in Java & React | Building scalable web applications | Reach me at 13438446285@163.com"
