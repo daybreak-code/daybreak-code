@@ -11,7 +11,7 @@ Building scalable, production-ready web applications with modern architectures.
 ## 📬 Connect With Me
 - **Email:** 13438446285@163.com
 - **X (Twitter):** [@XEAM9BGH444061](https://x.com/XEAM9BGH444061)
-- **Professional Background:** 3+ years at HSBC, Manulife & AIA (FinTech projects)
+- **Professional Background:** 5+ years at HSBC, Manulife & AIA (FinTech projects)
 - **Current Focus:** AI-powered financial applications & scalable system design
 
 ## 🌟 Featured Projects
